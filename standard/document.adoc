@@ -1,34 +1,17 @@
-= OGC API - Moving Features - Part 1: Core
+= OGC API - Moving Features
 :doctype: standard
-:encoding: utf-8
-:lang: en
-:status: approved
-:committee: technical
-:draft: 3.0
-:external-id: http://www.opengis.net/doc/IS/ogcapi-movingfeatures-1/1.0
-:docnumber: 22-003
-:received-date: 2023-05-19
-:issued-date: 2029-03-30
-:published-date: 2029-03-30
-:fullname: Taehoon Kim
-:fullname_2: Kyoung-Sook Kim
-:fullname_3: Mahmoud SAKR
-:fullname_4: Martin Desruisseaux
 :docsubtype: implementation
-:keywords: ogcdoc, OGC document, OGC Moving Features, OGC Moving Features JSON, Moving Features Access, API, OpenAPI, REST, trajectory
-:submitting-organizations: Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology; Université libre de Bruxelles; Geomatys; Central Research Laboratory, Hitachi Ltd.; Feng Chia University
-:mn-document-class: ogc
-:mn-output-extensions: xml,html,doc,pdf
-:local-cache-only:
-:data-uri-image:
-:pdf-uri: ./document.pdf
-:xml-uri: ./document.xml
-:doc-uri: ./document.doc
 :edition: 1.0
+:language: en
+:status: draft
+:committee: technical
+:docnumber: 21-045
+:received-date: 2026-10-25
+:issued-date: 2026-10-25
+:fullname: Open Geospatial Consortium
+:organization: Open Geospatial Consortium
+:mn-document-class: ogc
 
-////
-Make sure to complete each included document
-////
 include::clause_0_front_material.adoc[]
 
 include::clause_1_scope.adoc[]
